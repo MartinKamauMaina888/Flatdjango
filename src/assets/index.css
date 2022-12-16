@@ -1,0 +1,27 @@
+.card{width:31%;margin:10px;float: left;}
+
+.card{border-radius: 10px;}
+
+img{width: 100%;height:180px;}
+
+body{background: rgb(41, 40, 40);font-family: 'Times New Roman', Times, serif;}
+
+#the_description{
+    text-align: justify;
+}
+#firstMovie{
+    color: white;
+}
+
+#films>li{
+    height: 50vh;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+@media screen and (max-width:425px) {
+    .card{
+        width: 100%;
+    }
+   
+}
