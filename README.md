@@ -1,5 +1,5 @@
 # Flatiron Movie Theater
-## By Alphine Mutwiri
+## By Martin Maina
 ## Project Description
 
 An application that allows a user to purchase movie tickets from the theater
@@ -20,7 +20,7 @@ An application that allows a user to purchase movie tickets from the theater
 
  # MIT licence
 
-<p>Copyright (c) 2022 Alphine Mutwiri</p>
+<p>Copyright (c) 2022 Martin Maina</p>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
